@@ -1,0 +1,9 @@
+TF-IDF (Term Frequency-Inverse Document Frequency):
+-Term Frequency (TF): Measures how frequently a word appears in a document.
+-Inverse Document Frequency (IDF): Measures how important a word is across all documents in the corpus.
+
+Cosine similarity:
+-text documents transformed into numerical feature vectors
+-cosine of the angle between two non-zero vectors in an inner product space
+
+A lambda function in Python is a small anonymous function defined using the lambda keyword. Unlike regular functions defined using the def keyword, a lambda function is limited to a single expression and does not require a name.
